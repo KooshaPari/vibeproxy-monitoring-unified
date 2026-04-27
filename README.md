@@ -18,7 +18,10 @@ Scaffolding only. No monitoring configurations, dashboards, or alert rules are c
 | `mise.toml` | mise tool-version config |
 | `.pre-commit-config.yaml` | pre-commit hooks |
 | `.editorconfig` | Editor config |
-| `docs/worklogs/` | Per-session worklog entries |
+| `CODE_OF_CONDUCT.md` | Participation expectations |
+| `SECURITY.md` | Private vulnerability reporting guidance |
+| `docs/worklogs/README.md` | Canonical worklog index |
+| `docs/worklogs/worklog.md` | Detailed work audit log |
 
 ## Quick Start
 
