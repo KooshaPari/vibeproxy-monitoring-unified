@@ -16,7 +16,8 @@ By participating, you agree to abide by the [Code of Conduct](./CODE_OF_CONDUCT.
 
 ## Reporting Issues
 
-Use [GitHub Issues](../../issues) with a minimal reproduction and your environment details.
+Use [GitHub Issues](https://github.com/KooshaPari/vibeproxy-monitoring-unified/issues)
+with a minimal reproduction and your environment details.
 
 ## Security
 
