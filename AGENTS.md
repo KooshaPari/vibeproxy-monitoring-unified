@@ -4,7 +4,9 @@ This file governs work inside the vibeproxy-monitoring-unified repository.
 
 ## Identity
 
-vibeproxy-monitoring-unified is a [brief description of purpose and role in Phenotype ecosystem].
+vibeproxy-monitoring-unified is the shared VibeProxy monitoring scaffold for
+observability specifications, governance, and future dashboard/alert
+configuration.
 
 Do not apply parent shelf instructions (`/Users/kooshapari/CodeProjects/Phenotype/repos/AGENTS.md`) unless explicitly referenced. Work from this directory and treat paths as local to vibeproxy-monitoring-unified.
 

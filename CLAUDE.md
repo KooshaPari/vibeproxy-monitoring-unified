@@ -9,10 +9,12 @@ Extends parent governance. See the following for canonical definitions:
 ## Project Overview
 
 - **Name:** vibeproxy-monitoring-unified
-- **Description:** [Short description from README]
-- **Location:** [Relative path in repos]
-- **Language Stack:** [Primary languages]
-- **Status:** [Active/Archived/Experimental]
+- **Description:** Shared VibeProxy monitoring scaffold for observability
+  specifications, governance, and future dashboard/alert configuration
+- **Location:** `/Users/kooshapari/CodeProjects/Phenotype/repos/vibeproxy-monitoring-unified`
+- **Language Stack:** Governance/spec scaffold; monitoring configuration stack
+  not yet populated
+- **Status:** Active scaffold
 
 ## AgilePlus Mandate
 
